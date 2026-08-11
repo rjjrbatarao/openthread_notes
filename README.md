@@ -6,6 +6,7 @@ esp32 thread matter
 https://openthread.io/codelabs/esp-openthread-hardware#3
 https://github.com/espressif/esp-idf/tree/master/examples/openthread
 https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_br
+https://github.com/project-chip/connectedhomeip/
 ```
 
 ## Thread Border Routers
